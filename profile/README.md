@@ -1,4 +1,4 @@
-# iTaca Robotics
+# itaca robotics
 ## About
-Based in Italy, iTaca Robotics aims to develope opensource robotic arms for educational puorposes.
+Based in Italy, itaca robotics aims to develope opensource robotic arms for educational puorposes.
 
