@@ -5,6 +5,6 @@ Based in Italy, itaca robotics aims to develope open source robotic arms for edu
 
 ## Check out our latest project!
 
-### ROS2 delta robot [Metis](/Metis/)
+### ROS2 delta robot [Metis](https://github.com/itacarobotics/Metis)
 
 
