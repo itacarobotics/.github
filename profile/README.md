@@ -7,4 +7,4 @@ Our goal is to develope open source robotic arms for educational puorposes.
 
 - **[Metis](https://github.com/itacarobotics/Metis)** Open-source delta robot
 
-## [YouTube channel](https://www.youtube.com/@itacarobotics-uq2ss/featured)
+## [YouTube channel](https://www.youtube.com/channel/UCZBthnqJWC6FefQW3D71Wpg)
