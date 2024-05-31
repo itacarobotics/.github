@@ -15,7 +15,7 @@ Itaca robotics is dedicated to the integration of robotics projects, merging the
 
 
 
-##  Contact Us
+#  Contact Us
 For more information, please reach out to us:
 - Email: [ostifederico02@gmail.com](mailto:ostifederico02@gmail.com)
 - YouTube: [itaca robotics](https://www.youtube.com/channel/UCZBthnqJWC6FefQW3D71Wpg)
