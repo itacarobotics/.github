@@ -5,11 +5,10 @@
 Itaca robotics is dedicated to the integration of robotics projects, merging theoretical knowledge with hands-on practice. Our mission is to continuously push the boundaries of our knowledge and gain experience through new projects.
 
 
-## Latest Projects
+
+## Check out the Metis project [>> here <<](https://github.com/itacarobotics/Metis)
 
 ![banner_metis](/logo/banner_metis.png)
-
-## check out the Metis project [>> here! <<](https://github.com/itacarobotics/Metis)
 
 **Metis** is a pick-n-place delta robot. With over 10 months of development, Metis has been mostly designed from the ground up. From the mechanics to the software and firmware, nothing has been given for granted. Check out the Metis repository for more details!
 
